@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Meu nome é Daniel Tavares, estudante do ensino médio técnico em desenvolvimento Web e Cibersegurança<br><br><br>Atualente envolvido em:<br>--  Análise de código<br>-- UX/UI<br>-- Arquiteura de Software</p>
+<p align="left">Meu nome é Daniel Tavares, estudante do ensino médio técnico em desenvolvimento Web e Cibersegurança<br><br><br>Atualmente envolvido em:<br>--  Análise de código<br>-- UX/UI<br>-- Arquiteura de Software</p>
 
 ###
 
