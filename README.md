@@ -16,7 +16,7 @@
 
 <div align="left">
   <!-- Link do LinkedIn apenas no ícone do LinkedIn -->
-  <a href="linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-t-171b5b3aa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
