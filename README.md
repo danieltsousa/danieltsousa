@@ -15,12 +15,17 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/
-daniel-t-171b5b3aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://discordapp.com/users/1260227416903913512" target="_blank"
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  >
+  <!-- Link do LinkedIn apenas no ícone do LinkedIn -->
+  <a href="linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Link do Discord apenas no ícone do Discord -->
+  <a href="https://discordapp.com/users/1260227416903913512" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+</div>
+
   
   
   
